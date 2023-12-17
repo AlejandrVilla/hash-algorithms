@@ -11,11 +11,16 @@
 - C++ 11
 
 ## Uso
-```shell
-# para ayuda
-$ ./main.sh -h
-# para compilar los archivos y crear ejecutables
-$ ./main.sh -c
-# para ejecutar calculadora
-$ ./main.sh -e
-```
+
+1. para ayuda
+    ```shell
+    ./main.sh -h
+    ```
+2. para compilar los archivos y crear ejecutables
+    ```shell
+    ./main.sh -c
+    ```
+3. para ejecutar calculadora
+    ```shell
+    ./main.sh -e
+    ```
