@@ -45,7 +45,7 @@ class CipherApp(QWidget):
         self.setLayout(vbox)
 
         self.setGeometry(300, 300, 400, 400)
-        self.setWindowTitle('Aplicación de Cifrado')
+        self.setWindowTitle('Calculadora de Cifrado')
         self.show()
 
     def showDialog(self):
